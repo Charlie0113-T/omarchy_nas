@@ -1,3 +1,13 @@
+> [!IMPORTANT]
+> **This repository has moved to [Charlie0113-T/omarchy-nas](https://github.com/Charlie0113-T/omarchy-nas)**, which now holds the bar plugin and omarchy-nas together. This copy is archived and gets no updates. Install the plugin from the new home:
+>
+> ```sh
+> omarchy plugin remove io.github.charlie0113-t.omarchy-nas --yes
+> omarchy plugin add https://github.com/Charlie0113-T/omarchy-nas.git --enable
+> ```
+>
+> 本仓库已迁移到 [Charlie0113-T/omarchy-nas](https://github.com/Charlie0113-T/omarchy-nas)，顶栏插件和 omarchy-nas 都在那里；这里已归档，不再更新。
+
 > **Note:** I'm still a student, so I may not be able to respond to issues or ship updates right away. I'll keep maintaining this project in my spare time as best I can.
 
 <div align="center">
